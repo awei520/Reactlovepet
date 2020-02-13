@@ -1,0 +1,31 @@
+.petdetail {
+    width: 100%;
+    overflow: hidden;
+}
+.petdetail .pdname{
+    color: #f2473d;
+}
+.petdetail .pdintro{
+    font-size: 16px;
+}
+.petdetail p{
+    font-size: 16px;
+}
+.petdetail .am-tabs{
+    margin-top: 20px;
+    
+}
+.petdetail .ptd{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.petdetail .attention{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.petdetail img {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}

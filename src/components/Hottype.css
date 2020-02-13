@@ -1,0 +1,41 @@
+.hottype{
+    width: 100%;
+    /* margin-top: 20px; */
+    box-sizing: border-box;
+    /* margin-left: 10px; */
+    margin:20px 10px 10px 10px;
+    /* border:1px solid rgb(184, 182, 182); */
+}
+.hott {
+    width: 100%;    
+    border-bottom:1px solid grey
+}
+.hott p{
+    display: inline-block;
+    width: 96px;
+    font-size: 24px;
+    color: rgb(242, 71, 61);
+    border-bottom:4px solid rgb(242, 71, 61)
+}
+.hottype .htlist{
+    width: 30%;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    position: relative;
+    overflow: hidden;
+}
+.hottype .htlist img {
+    width: 100%;
+    border-radius: 0;
+}
+.hottype .htlist .hide {
+    position: absolute;
+    bottom: 0;
+    height: 15%;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.7);
+    /* opacity: 0.5; */
+}

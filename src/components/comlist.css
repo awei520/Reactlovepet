@@ -1,0 +1,47 @@
+.sharedetail1 {
+    width: 94%;
+    margin-top: 4px;
+    /* height: 100px; */
+    margin-left: 3%;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.89);
+    border-radius: 2%;
+}
+.sharedetail1 img {
+    margin-top: 6px;
+    margin-left: 4px;
+    width:30px;
+    height: 30px;
+    border-radius: 10%;
+    float: left;
+}
+.sharedetail1 .nickname1 {
+    margin-top: 6px;
+    margin-left: 6px;
+    float: left;
+    color: rgb(48, 28, 128);
+    font-size: 14px;
+}
+.sharedetail1 .text1 {
+    margin-top: 40px;
+    margin-left: 8px;
+    width: 100%;
+    word-wrap:break-word;
+}
+.sharedetail1 .sharetime1 {
+    color: grey;
+    margin-left: 4px;
+    margin-top: 4px;
+    font-size: 14px;
+}
+.pinglun {
+    width: 100%;
+    height: 20px;
+    margin-top: 4px;
+    font-size: 14px;
+    background-color: rgb(242, 71, 61);
+    color: white;
+    line-height: 20px;
+    padding-left: 6px;
+    box-sizing: border-box;
+}

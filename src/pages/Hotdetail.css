@@ -1,0 +1,29 @@
+.detail img {
+    width: 100%;
+    border-radius: 10%;
+}
+.detail h2{
+    color: crimson;
+}
+.detail {
+    overflow: hidden;
+}
+.hotcontent{
+    /* border: 1px solid grey; */
+    font-size: 16px;
+    padding: 14px 2px 4px 4px;
+    margin: 8px;
+    box-sizing: border-box;
+}
+.icon-user{
+    margin-left: 4px;
+}
+.detail .hitnum{
+    color: grey;
+    font-size: 16px;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 6px;
+}
+
+

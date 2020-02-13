@@ -1,0 +1,66 @@
+.recommend{
+    width: 100%;
+    /* margin-top: 20px; */
+    box-sizing: border-box;
+    /* margin-left: 10px; */
+    margin:20px 10px 10px 10px;
+    /* border:1px solid rgb(184, 182, 182); */
+}
+.recom {
+    width: 100%;    
+    border-bottom:1px solid grey
+}
+.recom p{
+    display: inline-block;
+    width: 96px;
+    font-size: 24px;
+    color: rgb(242, 71, 61);
+    border-bottom:4px solid rgb(242, 71, 61)
+}
+.recommend .reclist{
+    width: 100%; 
+    margin-top: 20px;
+    margin-left: 10px;   
+}
+/* .recommend .reclist span{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    
+}  */
+.reclist .toplist{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    background-color: rgb(242, 71, 61);
+    float: left;
+}
+.reclist{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.reclist .title{    
+    margin-left: 8px;
+    color: black;
+    display: inline-block;
+    /* width: 100%!important; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.reclist .toplist1{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: white;
+    background-color: grey;
+    float: left;
+}

@@ -1,0 +1,18 @@
+.choosehead {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 50px;
+}
+.choosedetail {
+    width: 22%;
+    float: left;
+    margin-left: 2%;
+    
+    margin-top: 10px;
+}
+.choosedetail img {
+    width: 100%;
+    border-radius: 10%;
+}

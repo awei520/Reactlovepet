@@ -1,0 +1,27 @@
+.sharetext textarea{
+    width: 90%;
+    height: 200px;
+    margin-top: 14px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 16px;
+}
+.am-segment-item{
+    color:rgb(242, 71, 61);
+    border:1px solid rgb(242, 71, 61)
+}
+.am-segment-item-selected.am-segment-item{
+    color: white;
+    background-color: rgb(242, 71, 61);
+}
+.fabiao .am-button {
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgb(242, 71, 61);
+    color: white;
+}
+.maximg{
+    margin-bottom: 10px;
+    margin-left: 5px;
+}

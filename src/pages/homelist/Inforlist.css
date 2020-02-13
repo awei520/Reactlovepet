@@ -1,0 +1,21 @@
+.am-list-header{
+    font-size: 20px;
+}
+.my-list .spe .am-list-extra {
+    flex-basis: initial;
+  }
+.am-grid-icon{
+   width: 60px;
+   height: 56px;
+}
+.am-list-thumb{
+    width:80px;
+    height: 80px;
+}
+.am-list-thumb img {
+    width:100%;
+    height: 100%;
+}
+.am-list-item{
+    height: 100px;
+}

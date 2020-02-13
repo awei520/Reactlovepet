@@ -1,0 +1,78 @@
+.showup img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    /* margin-left: 40%; */
+    margin-top:14px;
+}
+.showup {
+    width: 100%;
+    height: 150px;
+    background-image: rgba(0,0,0,0);
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    
+}
+.showup .login{
+    width: 100px;
+    height: 40px;
+    background-color: white;
+   font-size: 16px;
+   line-height: 40px;
+   margin: auto;
+   border-radius: 10%;
+}
+.showup .am-button{
+     width: 40%;
+     margin: auto;
+     height: 40px;
+     line-height:40px;
+     margin-top: 10px;
+     position: relative;
+     z-index: 1;
+}
+.showdown .line {
+    height: 4px;
+    width: 100%;
+    background-color: tomato;
+    margin-top: 10px;
+}
+.showdown h2{
+    margin-left: 10px;
+    margin-top: 16px;
+}
+.showdown .nonecom {
+    width: 100%;
+    font-size:16px;
+    text-align: center;
+}
+.userdetail {
+    position: absolute;
+     z-index: 10;
+     top: 84px;
+     margin: auto;
+     width: 100%;
+}
+.userdetail a {
+    display: block;
+    margin-top: 10px;
+    text-decoration:underline;
+    color:rgb(255, 0, 64)
+}
+.userdetail p{
+    font-size:16px;
+}
+.showmy {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.showmy .gaosimohu{
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    filter: blur(20px);
+}

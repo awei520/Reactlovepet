@@ -1,0 +1,26 @@
+.allpetli .petli{
+    width: 46%;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.allpetli {
+    width: 100%;
+    overflow: hidden;
+    color: rgb(102, 99, 99);
+    
+}
+.allpetli .pname{
+    color: #f2473d;
+}
+
+.allpetli .intro{
+    height: 32px;
+    width: 100%;
+    overflow: hidden;
+/* text-overflow: ellipsis; */
+    /* white-space: nowrap; */
+}
+.allpetli img {
+    border-radius: 10%;
+}

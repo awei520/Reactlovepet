@@ -1,0 +1,92 @@
+.addimg {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    box-shadow: 4px 4px 4px grey;
+    position: fixed;
+    bottom: 60px;
+    right: 10px;
+}
+.fa-heart.active{
+    color:rgb(242, 71, 61);
+    
+}
+.fa-thumbs-o-up {
+    color:grey;
+}
+.petad {
+    width: 100%;
+    height: 200px;    
+}
+.petad img {
+    width: 100%;
+    height: 100%;
+}
+.sharelist { 
+    width: 100%;
+  
+}
+.sharelist .headimg{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 20px;
+    height: auto;
+    overflow: hidden;
+    padding-bottom: 6px;
+    border-bottom: 1px solid grey;  
+}
+.sharelist .headimg>img {
+    width: 40px;
+    height: 40px;
+    border-radius: 10%;
+    float: left;
+    
+}
+.sharelist .headimg .nickname {
+    display: inline-block;
+    height: 40px;
+    float: left;
+    margin-left: 10px;
+    font-size: 14px;
+    color: rgb(48, 28, 128);
+    box-sizing: border-box;
+    padding-top:5px ;
+}
+.sharelist .headimg .text {
+    width: 95%;
+    margin-top: 54px;
+    margin-left: 6px;
+    white-space: normal;
+    word-wrap:break-word;
+    font-size: 16px;
+}
+.sharelist .headimg .headimgbt .fa-commenting-o{
+    color:black;
+    display: inline-block;
+    font-size:14px;
+}
+.sharelist .onbottom{
+    width: 100%;
+    text-align: center;
+    color: rgb(242, 71, 61);
+    font-size: 16px;
+}
+.headimg .sharetime {
+    display: inline-block;
+    color: grey;
+    font-size:14px;
+    margin-top: 8px;
+    width: 86%;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.headimg .shareimg img {
+    width: 31%;
+    margin-left: 1%;
+    height: 120px;
+    margin-top: 16px;
+}
+#zmageBackground {
+    background-color: black!important;
+}
